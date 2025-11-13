@@ -36,8 +36,8 @@ My work lies at the intersection of **data analytics, business intelligence, and
 ---
 
 ## 📫 Let’s Connect  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/sanika-kendre-b58aa21b1/))  
-- 📧 **Email:** sanikakendre3114@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanika-kendre-b58aa21b1/) 
+- 📧 **Email:** sanikakendre3114@gmail.com
 
 ---
 
