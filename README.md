@@ -14,7 +14,13 @@ My work lies at the intersection of **data analytics, business intelligence, and
 
 ## 🧠 Skills & Tools  
 
-**Programming & Data Analysis:**  
+**Programming**
+- Java, Python, Javascript
+  
+**Web Development**
+- HTML, CSS, Javascript
+  
+**Data Analysis:**  
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - SQL, Excel, Power BI  
 
